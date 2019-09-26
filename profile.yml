@@ -1,0 +1,7 @@
+language:
+  name: "mandarin"
+  code: "zh-cn"
+
+text-to-speech:
+  espeak:
+    voice: "zh"
